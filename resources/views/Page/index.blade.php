@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   HOME
+                   HOME MODIFY
                 </div>
 
                 <div class="links">
