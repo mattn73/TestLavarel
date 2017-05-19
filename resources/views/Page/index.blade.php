@@ -62,6 +62,12 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .test:hover {
+                color: #4080ff;
+                font-size: 100px;
+                transition: 2s; 
+            }
         </style>
     </head>
     <body>
@@ -79,7 +85,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   HOME MODIFY
+                   <a class="test">HOME MODIFY</a>
                 </div>
 
                 <div class="links">
