@@ -20,15 +20,13 @@ class PageController extends Controller
       public function getContact()
     {
         return view('page.contact');
-    }   
-
-    public function create()
-    {
+    }  
 
 
-       
-    }
 
+
+
+ 
     
    
     
