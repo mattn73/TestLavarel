@@ -85,7 +85,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   <a class="test">HOME MOD matt</a>
+<<<<<<< HEAD
+                   <a class="test">HOME AK163</a>
+=======
+                   <a class="test">HOME MOD</a>
+>>>>>>> 5be582fd7dfbc503ded9ed671aa6e309622c1722
                 </div>
 
                 <div class="links">

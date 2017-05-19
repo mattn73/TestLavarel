@@ -62,12 +62,6 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
-
-            .test:hover {
-                color: #4080ff;
-                font-size: 100px;
-                transition: 2s; 
-            }
         </style>
     </head>
     <body>
@@ -85,15 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   <a class="test">HOME MOD matt</a>
+                    CONTACT PAGES
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                   <p> CONTACT US</p>
                 </div>
             </div>
         </div>
