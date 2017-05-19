@@ -13,3 +13,4 @@
 
 
 Route::get('/', 'PageController@getIndex');
+Route::get('contact', 'PageController@getContact');
