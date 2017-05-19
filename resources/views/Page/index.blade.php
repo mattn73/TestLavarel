@@ -85,7 +85,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   <a class="test">HOME MODIFY</a>
+                   <a class="test">HOME AK163</a>
                 </div>
 
                 <div class="links">
